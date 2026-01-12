@@ -1,0 +1,30 @@
+# Create .gitignore
+nano .gitignore
+```
+
+Paste this:
+```
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Data files
+data/raw/*.pdf
+data/extracted/*.csv
+
+# Keep processed data
+!data/processed/safaricom_3year_analysis.csv
+!data/processed/SAFARICOM_FINANCIAL_REPORT.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

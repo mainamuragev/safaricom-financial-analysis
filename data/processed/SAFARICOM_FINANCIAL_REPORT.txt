@@ -1,0 +1,63 @@
+================================================================================
+SAFARICOM PLC - FINANCIAL ANALYSIS REPORT (FY 2023-2025)
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Analysis Period: FY 2023 - FY 2025
+Company: Safaricom PLC (NSE: SCOM)
+Currency: Kenya Shillings (KShs) - Millions
+
+KEY FINDINGS:
+
+1. Revenue CAGR (2023-2025): 11.81%
+   - FY 2023: KShs 310,905M
+   - FY 2024: KShs 349,447M (+12.4%)
+   - FY 2025: KShs 388,689M (+11.2%)
+
+2. Profitability Trends:
+   FY 2023: EBITDA Margin 44.99% | Net Margin 16.88%
+   FY 2024: EBITDA Margin 46.73% | Net Margin 12.21%
+   FY 2025: EBITDA Margin 44.29% | Net Margin 11.77%
+
+3. Net Profit Performance:
+   - FY 2023: KShs 52,483M
+   - FY 2024: KShs 42,658M (-18.7%)
+   - FY 2025: KShs 45,757M (+7.3%)
+
+
+================================================================================
+DETAILED FINANCIAL METRICS
+================================================================================
+
+ Fiscal Year  Total Revenue (KShs M)  EBITDA (KShs M)  Operating Profit (KShs M)  Profit Before Tax (KShs M)  Net Profit (KShs M)
+      2023.0                310904.8         139862.4                    84997.4                     88345.2              52482.8
+      2024.0                349447.2         163292.6                    80344.8                     84687.4              42658.4
+      2025.0                388688.9         172150.9                   104050.1                     93210.5              45757.2
+
+================================================================================
+OBSERVATIONS
+================================================================================
+
+STRENGTHS:
+• Consistent double-digit revenue growth (11-12% annually)
+• Strong EBITDA margins above 44%
+• Recovery in net profit in FY 2025
+
+CONCERNS:
+• Net profit declined significantly in FY 2024 despite revenue growth
+• Declining net profit margins (16.88% → 11.77%)
+• Suggests increasing operational costs or other expenses
+
+================================================================================
+METHODOLOGY
+================================================================================
+
+Data Source: Safaricom PLC Annual Reports (FY 2023, 2024, 2025)
+Extraction Method: Automated PDF parsing using Python (pdfplumber)
+Data Points: Income Statement metrics from consolidated GROUP results
+Analysis Date: January 2026
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -1,0 +1,9 @@
+nano requirements.txt
+```
+
+Paste:
+```
+pdfplumber==0.11.9
+pandas==2.3.3
+sqlalchemy==2.0.45
+psycopg2-binary==2.9.11
